@@ -14,7 +14,7 @@ public class Solution {
   }
 
   /**
-   * Encodes the original message by the method of Caesar's Cipher: each character in the original
+   * Encrypts the original message by the method of Caesar's Cipher: each character in the original
    * message is shifted to the right of the alphabet. If the total number of shifts exceeds 
    * the number of letters in the alphabet, then it continues counting from the first alphabet character
    * again, and so on, until the total number of shifts is reached.
